@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME : DHANASHREE M</H3>
-<H3>ENTER YOUR REGISTER NO :212221230018</H3>
 <H3>EX. NO : 7</H3>
 <H3>DATE :</H3>
+<H3>ENTER YOUR NAME : DHANASHREE M</H3>
+<H3>ENTER YOUR REGISTER NO :212221230018</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
